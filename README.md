@@ -10,7 +10,6 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 ## Prerequisites
 - Ubuntu 22.04 LTS
 - ROS2 Humble [(Required Package)](https://docs.ros.org/en/humble/Package-Docs.html?utm_source=chatgpt.com)
-  + OpenCV
 ## Features
 - 2D grid environment 
 - Start and goal selection and grid generation via command
