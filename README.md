@@ -9,7 +9,7 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 - [Output](#output)
 ## Prerequisites
 - Ubuntu 22.04 LTS
-- ROS2 Humble [(Required Package)](#https://docs.ros.org/en/humble/Package-Docs.html?utm_source=chatgpt.com)
+- ROS2 Humble [(Required Package)](https://docs.ros.org/en/humble/Package-Docs.html?utm_source=chatgpt.com)
 - 
 ## Features
 - 2D grid environment 
