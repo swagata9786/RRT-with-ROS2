@@ -1,5 +1,7 @@
 # RRT-with-ROS2
 A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path planning algorithm for ROS2 humble with OpenCV visualization. Supports dynamic start/goal selection, grid generation, and smooth path generation.
+## Table of Contents
+## Prerequisites
 ## Features
 - 2D grid environment 
 - Start and goal selection and grid generation via command
@@ -11,3 +13,8 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 - user_input_node: Handles user given start, goal, and grids
 - planner_node: Computes the RRT* tree and finds optimal paths
 - visualizer_node: Draws the grid, tree, and final path in real-time
+## Build Guide 
+- Clone the Repository
+First, navigate to your ROS 2 workspace and clone the project:
+cd /rrt_star_planner/src
+git clone https://github.com/your-username/your-rrt-star-repo.git
