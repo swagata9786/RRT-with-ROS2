@@ -24,7 +24,7 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 First, navigate to your ROS 2 workspace and clone the project:
 ```
 cd /rrt_star_planner/src
-git clone https://github.com/your-username/your-rrt-star-repo.git
+git clone https://github.com/swagata9786/rrtstar-with-ros2.git
 ```
 ## How to Run
 - Using a Launch File
@@ -51,8 +51,9 @@ ros2 run rrt rrt_star_node --ros-args \
 ## Output
 ![WhatsApp Image 2025-04-27 at 11 03 00](https://github.com/user-attachments/assets/13d3be5e-048d-4582-8596-845cf1e26f70)
 ![WhatsApp Image 2025-04-27 at 14 34 10](https://github.com/user-attachments/assets/172245a5-1337-4f9f-a279-117ddeeb3e93)
-![WhatsApp Image 2025-04-27 at 11 02 52](https://github.com/user-attachments/assets/5aae5c39-e96b-4a98-a88d-a965bc86568a)
-![WhatsApp Image 2025-04-27 at 11 03 05](https://github.com/user-attachments/assets/8c2b3494-39b3-46f0-9790-80d981b862d1)
+![Screenshot from 2025-04-27 15-09-38](https://github.com/user-attachments/assets/3d36ca55-49de-4eac-b44b-9dd25e5d9777)
+![Screenshot from 2025-04-27 15-09-54](https://github.com/user-attachments/assets/371a50ec-a3da-47db-a493-95d3aba0c846)
+
 
 
 
