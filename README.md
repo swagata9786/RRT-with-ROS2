@@ -44,10 +44,8 @@ ros2 run rrt rrt_star_node --ros-args \
 - start_cell_x, start_cell_y define the start position at cell (3, 2).
 - goal_cell_x, goal_cell_y define the goal position at cell (29, 42).
 ## Output
-- Predefined Parameter
 ![WhatsApp Image 2025-04-27 at 11 03 00](https://github.com/user-attachments/assets/13d3be5e-048d-4582-8596-845cf1e26f70)
 ![WhatsApp Image 2025-04-27 at 14 34 10](https://github.com/user-attachments/assets/172245a5-1337-4f9f-a279-117ddeeb3e93)
-- Manually define Parameter
 ![WhatsApp Image 2025-04-27 at 11 02 52](https://github.com/user-attachments/assets/5aae5c39-e96b-4a98-a88d-a965bc86568a)
 ![WhatsApp Image 2025-04-27 at 11 03 05](https://github.com/user-attachments/assets/8c2b3494-39b3-46f0-9790-80d981b862d1)
 
