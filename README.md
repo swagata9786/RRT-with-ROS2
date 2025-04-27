@@ -8,6 +8,7 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 - [How to Run](#howtorun)
 - [Output](#output)
 ## Prerequisites
+- Ubuntu 22.04 LTS
 ## Features
 - 2D grid environment 
 - Start and goal selection and grid generation via command
