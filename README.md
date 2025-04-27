@@ -3,6 +3,10 @@ A C++ implementation of the RRT* (Rapidly-Exploring Random Tree Star) path plann
 - [Prerequisities](#prequisities)
 - [Features](#features)
 - [Nodes and Topics](#nodesandtopics)
+- [Packages](#packages)
+- [Build Guide](#buildguide)
+- [How to Run](#howtorun)
+- [Output](#output)
 ## Prerequisites
 ## Features
 - 2D grid environment 
