@@ -40,8 +40,8 @@ Alternatively, runs the RRT* node directly and manually specify parameters:
 ros2 run rrt rrt_star_node --ros-args \
 -p start_cell_x:=3 \
 -p start_cell_y:=2 \
--p goal_cell_x:=29 \
--p goal_cell_y:=42 \
+-p goal_cell_x:=24 \
+-p goal_cell_y:=48 \
 -p rows:=50 \
 -p cols:=30
 ```
